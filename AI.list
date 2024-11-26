@@ -1,11 +1,12 @@
 # NAME: AI
-# AUTHOR: blackmatrix7
+# AUTHOR: ttbadr
 # REPO: https://github.com/ttbadr/files
 # UPDATED: 2024-07-03 16:18:28
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 3
-# TOTAL: 4
+# DOMAIN-SUFFIX: 4
+# TOTAL: 5
 DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,codeium.com
