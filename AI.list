@@ -2,12 +2,8 @@
 # AUTHOR: ttbadr
 # REPO: https://github.com/ttbadr/files
 # UPDATED: 2024-07-03 16:18:28
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 5
-# TOTAL: 6
-DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,x.ai
+# DOMAIN: 0
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,cursor.sh
